@@ -10,6 +10,7 @@ class HomePages extends StatelessWidget {
     return Scaffold(
       body: SafeArea(
           child: Center(
+
         // child: BlocBuilder<InternetBloc, InternetState>(
         //   builder: (context, state) {
         //     if (state is InternetGainedlState) {

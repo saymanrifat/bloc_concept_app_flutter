@@ -7,7 +7,6 @@ enum InternetState { Initial, Lost, Gained }
 
 class InternetCubit extends Cubit<InternetState> {
 
-
   Connectivity _connectivity = Connectivity();
   StreamSubscription? connectivitSubscription;
   InternetCubit() : super(InternetState.Initial) {

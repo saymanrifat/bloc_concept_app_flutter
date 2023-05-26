@@ -1,6 +1,6 @@
 # bloc_app_flutter
 
-A new Flutter project.
+This is a Flutter Application that used Flutter State Management Tools Called Bloc Technology with Cubit framework.
 
 ## Getting Started
 
